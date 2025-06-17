@@ -1,0 +1,16 @@
+[project]
+name = "desig"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "langchain-groq>=0.3.2",
+]
+
+[project.scripts]
+desig = "desig:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
