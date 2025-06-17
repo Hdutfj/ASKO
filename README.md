@@ -46,5 +46,6 @@ git clone https://github.com/yourusername/langchain-voice-bot
 cd langchain-voice-bot
 pip install -r requirements.txt
 
+![image](https://github.com/user-attachments/assets/0ecd3067-e0c5-44c1-b0ac-5264a96acc87)
 
 
