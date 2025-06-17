@@ -38,6 +38,7 @@ It allows users to **chat using voice**, **upload PDF documents**, and **retriev
 - **HTML + TailwindCSS** – Frontend design
 
 ---
+![image](https://github.com/user-attachments/assets/974edc86-5a01-4243-b3f3-fd1b1e684e0a)
 
 ## 📦 Installation
 
@@ -46,6 +47,5 @@ git clone https://github.com/yourusername/langchain-voice-bot
 cd langchain-voice-bot
 pip install -r requirements.txt
 
-![image](https://github.com/user-attachments/assets/0ecd3067-e0c5-44c1-b0ac-5264a96acc87)
 
 
